@@ -1,5 +1,6 @@
 First, run the development server:
 
+open terminal, then run the command
 npm run dev
 
 Then, 
